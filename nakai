@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(){
+
+  printf("アプリがダウンロードできなかったー何もできないー笑");
+  
+  return 0;
+}
